@@ -5,6 +5,7 @@
 
 
 --------** CREDIT **--------
+
 Programmers: Hanniee Tran, Kyle Hand
 
 Designers: Jeffrey Jourdan, Hanniee Tran
