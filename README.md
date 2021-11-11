@@ -1,5 +1,5 @@
 # Dead Treads from Pink Moon Studios team
-* * Project 3 from Casual Game Production class *
+**  Project 3 from Casual Game Production class **
 
 ** Unreal Engine Ver. 4.26.2 **
 
