@@ -8,7 +8,7 @@
 
 Programmers: Hanniee Tran, Kyle Hand
 
-Designers: Jeffrey Jourdan, Hanniee Tran
+Designers: Jeffrey Jourdan, Hanniee Tran, Kyle Hand
 
 Artists: Eric Savage, Erik Lovejoy, James Hilley, Justin Diaz, Matt Reuter
 
