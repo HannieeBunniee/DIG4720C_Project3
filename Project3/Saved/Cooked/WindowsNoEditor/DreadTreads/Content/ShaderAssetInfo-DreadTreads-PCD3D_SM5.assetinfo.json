@@ -1,0 +1,374 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset",
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27D4F827A19CAA0A888D888857CDDC3BC8720D5C",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BAE22A1ABB1CBB248257C342C906E5D3F2723A2D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D23C75799DEF0E787A73E61A3035F2635A865E7A",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_SolidColor.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_008.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_007.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_006.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_004.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_003.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_002.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_001.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D722CA47EEA195E2ECCDB9AE1C393D334E460A3",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8861429E134E15D2F04B0A1D4248846EC8F82AD4",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4534566766D0397AEBD043D7026AE938C3662EDE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "372E629411112768181A63FA2F1CEF9B8F6E0201",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8A72226299ED02D48368A5B6EFF16A16E1B8A2C1",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DFFF683E99422762C31CA112E5C4BCA2E0AFD3B8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84E77B16DB6849A87F7F4730D1BD9FAFFE41D989",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E8FACA51B5E3C679B535A6C0DDEF39ECE6D6EBF",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/map_LvlTest.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "007D8AE3A46F28676EBE1FFCAB9C325A736FAEB4",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_SnowGulch.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_MainMenu.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE5C00A9BE27C652753D7DD5C55B9F8E5884526A",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_SnowGulch.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_MainMenu.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "66E5003BBFA683DED0E90F243D412DA9AEEF6400",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/HoverTankWhite.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C89A764638F7237B6A91FE4614B3965506F9AB4C",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/HoverTankGreen.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "850B47A5B7B1E42C60CF3FAE51A3EFD8156AE4FF",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Blue/L1Tank_Blue.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Red/L1Tank_Red.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Red/L2Tank_Red.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Blue/L2Tank_Blue.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Red/Tank3_Red.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Blue/Tank3_Blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C6F0A3696138D148461A931EA4E474117760DB4",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/M_PlaceholderBody.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79DA54AAE16F59BF149FB64B11FA1BABCB2CB547",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_SnowParticle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "281D31A95565FCD4C1EDD2C2430C20415D05E3AD",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_TreeTrunk.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "18DF662C27A60204B63684C76FCCD2DBDC75FD2C",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_TreeLeaves.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8E0F325EF79D455EADC377DD894EC75889FE2559",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BEA485E86FB51B31C7CB2391BF15D5B0CEB2D5C2",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Barrier.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Cliff1.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Cliff2.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Stand.uasset",
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Gunner.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E6CEAC01B52EAE37F8D1A84B71717ED11850200",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/SnowSurface_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0BD7CFBA50353C1E8BBBAB28410C51157D05165",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/ProximityTurret/M_ProximityTurretEye.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8FE228EA8008B61838C1B4B3B9FF4FA214045604",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE651DDF4D4119B2E9E739A4B2F0AA835192B170",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/SnowStamp_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "91BD5D52E8E3BF49FC6069B2DB234812D53425BD",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/M_PlaceholderTurret.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "031392EBF1FC7E20DDE0733D574DCDBA06BD4F44",
+			"Assets": [
+				"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/M_PlaceholderBarrel.uasset"
+			]
+		}
+	]
+}
