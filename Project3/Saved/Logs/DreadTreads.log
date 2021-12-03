@@ -1116,3 +1116,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.03-15.13.07:156][244]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/UI_Won.UI_Won
 [2021.12.03-15.13.12:907][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
 [2021.12.03-15.13.15:538][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.12.03-15.13.37:029][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.12.03-15.13.39:173][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.12.03-15.13.41:228][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
