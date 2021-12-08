@@ -1,0 +1,397 @@
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/M_PlaceholderTurret.uasset" 0
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/SM_TankTurretPlaceholder.uasset" 1
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/M_PlaceholderBody.uasset" 2
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/SM_TankBodyPlaceholder.uasset" 3
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/M_PlaceholderBarrel.uasset" 4
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/StaticMesh/Placeholder/SM_TankBarrel.uasset" 5
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/BP_EnemyRandomRoam.uasset" 6
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/AI/Tasks/Task_GetTargetInRange.uasset" 7
+"../../../Engine/Content/EditorResources/Goal_Waypoint.uasset" 8
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/Actors/BP_Waypoint.uasset" 9
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/Actors/BP_MinionSpawnPoint.uasset" 10
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_PlayerHUD.uasset" 11
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_LoadingScreen.uasset" 12
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/28days/28_Days_Later.uasset" 13
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/28days/28_Days_Later_Font.uasset" 14
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 15
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_PauseMenu.uasset" 16
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_GameOver.uasset" 17
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Pewpew3.uasset" 18
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankWhite_OcclusionRoughnessMetallic.uasset" 19
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankWhite_Normal.uasset" 20
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankWhite_BaseColor.uasset" 21
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/HoverTankWhite.uasset" 22
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankGreen_OcclusionRoughnessMetallic.uasset" 23
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankGreen_Normal.uasset" 24
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankGreen_Emissive.uasset" 25
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/PlayerTank/Game_Tank_HoverTankGreen_BaseColor.uasset" 26
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/HoverTankGreen.uasset" 27
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/Asset_TankTurret.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 29
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 30
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 31
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 32
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 33
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_SolidColor.uasset" 34
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_SolidColor_Red.uasset" 35
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Projectors/BP_PlayerProjectile.uasset" 36
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/Asset_TankBody.uasset" 37
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/Asset_TankGuns.uasset" 38
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/PlayerTank/Asset_TankMantlet.uasset" 39
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/BP_CameraShakeShoot.uasset" 40
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/BP_CameraShakeReload.uasset" 41
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/BP_PlayerCharacter.uasset" 42
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Blue/Tank_Mesh_1_1001_OcclusionRoughnessMetallic.uasset" 43
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Blue/Tank_Mesh_1_1001_Normal.uasset" 44
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Blue/Tank_Mesh_1_1001_BaseColor.uasset" 45
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Blue/L1Tank_Blue.uasset" 46
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Red/Tank_Mesh_1_1001_OcclusionRoughnessMetallic.uasset" 47
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Red/Tank_Mesh_1_1001_Normal.uasset" 48
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Red/Tank_Mesh_1_1001_BaseColor.uasset" 49
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/Mats/Red/L1Tank_Red.uasset" 50
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_EnemyHealthBar.uasset" 51
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/TM_Lvl1TankHead.uasset" 52
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level1/TM_Lvl1TankBody.uasset" 53
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 54
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Projectors/BP_MinionShot.uasset" 55
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/AI/Tasks/Task_AttackTarget.uasset" 56
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/AI/Services/BTS_UpdateTarget.uasset" 57
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/AI/BB_MinionAI.uasset" 58
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/AI/BT_MinionAI.uasset" 59
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/AI/AIC_Minion.uasset" 60
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/Units/BP_Minion.uasset" 61
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/GameFiles/GM_Main.uasset" 62
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/TM_Lvl2TankHead.uasset" 63
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/TM_Lvl2TankBody.uasset" 64
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Red/Tank2_Mesh_UE_lambert4_OcclusionRoughnessMetallic.uasset" 65
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Red/Tank2_Mesh_UE_lambert4_Normal.uasset" 66
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Red/Tank2_Mesh_UE_lambert4_BaseColor.uasset" 67
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Red/L2Tank_Red.uasset" 68
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/Units/BP_Minion2.uasset" 69
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 70
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 71
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 72
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 73
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 74
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 75
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 76
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 77
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/LevelsRelated/BP_Sky_Sphere.uasset" 78
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 79
+"../../../Engine/Content/BasicShapes/Cube.uasset" 80
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Nexus/BP_AllyNexsus.uasset" 81
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_Won.uasset" 82
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Nexus/BP_EnemyNexsus.uasset" 83
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Nexus/Enemy/BP_EnemyNexsus.uasset" 84
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/punk/CFPunkisnotDead-Regular.uasset" 85
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/punk/CFPunkisnotDead-Regular_Font.uasset" 86
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/punk/Punk_Banner.uasset" 87
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/punk/Punk_is_not_dead_Glyphs.uasset" 88
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/Squid/Game_Of_Squids.uasset" 89
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/Squid/Game_Of_Squids_2_Font.uasset" 90
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Font/Squid/Game_Of_Squids_Font.uasset" 91
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Image/PinkMoonStudio_WhiteBackground.uasset" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 94
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/SnowStamp_Mat.uasset" 95
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/TM_Lvl2TankBody1.uasset" 96
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Blue/l3_Tank_UE_Tank3_mats_OcclusionRoughnessMetallic.uasset" 97
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Blue/l3_Tank_UE_Tank3_mats_Normal.uasset" 98
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Blue/l3_Tank_UE_Tank3_mats_BaseColor.uasset" 99
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Blue/Tank3_Blue.uasset" 100
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Turret/Turret_Gunner_OcclusionRoughnessMetallic.uasset" 101
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Turret/Turret_Gunner_Normal.uasset" 102
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Turret/Turret_Gunner_BaseColor.uasset" 103
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Gunner.uasset" 104
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Turrets/Turret_pCylinder14.uasset" 105
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Turret/Turret_Stand_OcclusionRoughnessMetallic.uasset" 106
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Turret/Turret_Stand_Normal.uasset" 107
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Turret/Turret_Stand_BaseColor.uasset" 108
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Stand.uasset" 109
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Turrets/Turret_polySurface5.uasset" 110
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/All_Pewpew.uasset" 111
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Defeat1.uasset" 112
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Defeat2.uasset" 113
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Pewpew1.uasset" 114
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Pewpew2.uasset" 115
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Pewpew4.uasset" 116
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Pewpew5.uasset" 117
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/PinkMoonStudio2.uasset" 118
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Victory.uasset" 119
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Victory2.uasset" 120
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/Yay.uasset" 121
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Grass_AO.uasset" 122
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Grass_N.uasset" 123
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Image/PinkMoonStudio_BlackBackground.uasset" 124
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_LogoScreen.uasset" 125
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_IconScreen.uasset" 126
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 127
+"../../../Engine/Content/BasicShapes/Cone.uasset" 128
+"../../../Engine/Content/BasicShapes/Plane.uasset" 129
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 130
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 131
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 132
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 133
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 134
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 137
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 138
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 139
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 140
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 141
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 142
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 143
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 144
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 145
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 146
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 147
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 148
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 149
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 150
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 151
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 152
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 153
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 154
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 155
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 156
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 157
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 158
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 159
+"../../../Engine/Content/EditorResources/S_Note.uasset" 160
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 161
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 162
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 163
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 164
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 165
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 166
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 167
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 168
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 169
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 170
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 171
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 172
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 173
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 174
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 176
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 177
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 178
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 179
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 180
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 181
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 182
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 183
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 184
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 185
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 186
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 187
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 188
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 189
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 191
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 192
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 196
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 197
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 199
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 201
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 202
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 203
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 204
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 205
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 206
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 208
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 209
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 210
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 211
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 212
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 213
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 214
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 215
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 216
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 217
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 218
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 219
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 220
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 221
+"../../../Engine/Content/EngineResources/Black.uasset" 222
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 223
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 224
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 225
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 226
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 227
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 228
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 229
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 230
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 231
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 233
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 234
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 235
+"../../../Engine/Content/EngineSounds/Master.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 237
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 238
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 239
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 240
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 241
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 242
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 243
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 244
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 245
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 246
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 247
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 248
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 259
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 260
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 261
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 262
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 263
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 264
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 265
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 266
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 267
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 268
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 269
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 270
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 271
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 272
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 273
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 274
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 275
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 276
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 277
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 279
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 280
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 281
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 283
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 284
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 287
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 288
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 289
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 290
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 291
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 292
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 293
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 294
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 295
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 296
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 298
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 299
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 300
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 301
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/SFX/PinkMoonStudio.uasset" 302
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_LogoScene.umap" 303
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Sounds/Music/BattleRoyale_.uasset" 304
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Cliffs/Cliff2/rockMountain_low_Mountain1_OcclusionRoughnessMetallic.uasset" 305
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Cliffs/Cliff2/rockMountain_low_Mountain1_Normal.uasset" 306
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Cliffs/Cliff2/rockMountain_low_Mountain1_BaseColor.uasset" 307
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Cliff2.uasset" 308
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Cliffs/cliff2_low.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 310
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_SolidColor_Blue.uasset" 311
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/ProximityTurret/M_ProximityTurretEye.uasset" 312
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 313
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Turrets/Turret.uasset" 314
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Projectors/BP_EnemyProjectile.uasset" 315
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/ProximityTurret/BP_ProximityTurret.uasset" 316
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Enemy/Actors/BP_FlowDirection.uasset" 317
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/map_LvlTest.umap" 318
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_HowToPlay.uasset" 319
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_Credits.uasset" 320
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Widget/UI_MainMenu.uasset" 321
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_SnowParticle.uasset" 322
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Particles/P_Snow.uasset" 323
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/Tree2_M_TreeTrunk_OcclusionRoughnessMetallic.uasset" 324
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/Tree2_M_TreeTrunk_Normal.uasset" 325
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/Tree2_M_TreeTrunk_BaseColor.uasset" 326
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_TreeTrunk.uasset" 327
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/Tree2_M_TreeLeaves_OcclusionRoughnessMetallic.uasset" 328
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/Tree2_M_TreeLeaves_Normal.uasset" 329
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/Tree2_M_TreeLeaves_BaseColor.uasset" 330
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_EnvioVariation.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 332
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_TreeLeaves.uasset" 333
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_TreeLeaves_Inst.uasset" 334
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Enviroment/S_Tree.uasset" 335
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Grass.uasset" 336
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Grass.uasset" 337
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Grass_Inst.uasset" 338
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Enviroment/S_Grass.uasset" 339
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Bush_N.uasset" 340
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Bush_AO.uasset" 341
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Bush.uasset" 342
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Bush.uasset" 343
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Bush_Inst.uasset" 344
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Enviroment/S_Bush.uasset" 345
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Barrier_N.uasset" 346
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Barrier_AO.uasset" 347
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Enviroment/T_Barrier.uasset" 348
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Barrier.uasset" 349
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/M_Barrier_Inst.uasset" 350
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Enviroment/S_Barrier.uasset" 351
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Cliffs/Cliffs1/cliff1_low_Cliff1_OcclusionRoughnessMetallic.uasset" 352
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Cliffs/Cliffs1/cliff1_low_Cliff1_Normal.uasset" 353
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Textures/Cliffs/Cliffs1/cliff1_low_Cliff1_BaseColor.uasset" 354
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/Cliff1.uasset" 355
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Cliffs/cliff1_low.uasset" 356
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/SnowRVT.uasset" 357
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Materials/SnowSurface_Mat.uasset" 358
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_MainMenu_BuiltData.uasset" 359
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Character/BP_MainMenu.uasset" 360
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/GameFiles/GM_MainMenu.uasset" 361
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Menu/BP_MainTank.uasset" 362
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Menu/BP_EnemyTankRed.uasset" 363
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Blue/Tank2_Mesh_UE_lambert4_OcclusionRoughnessMetallic.uasset" 364
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Blue/Tank2_Mesh_UE_lambert4_Normal.uasset" 365
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Blue/Tank2_Mesh_UE_lambert4_BaseColor.uasset" 366
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level2/Mats/Blue/L2Tank_Blue.uasset" 367
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Menu/BP_EnemyTank4.uasset" 368
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/L3_Tank_UE_Tank3_Head.uasset" 369
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/L3_Tank_UE_Tank3_Base.uasset" 370
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/L3_Tank_UE_Minigun4.uasset" 371
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/L3_Tank_UE_Minigun3.uasset" 372
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/L3_Tank_UE_Minigun2.uasset" 373
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/L3_Tank_UE_Minigun1.uasset" 374
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Red/l3_Tank_UE_Tank3_mats_OcclusionRoughnessMetallic.uasset" 375
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Red/l3_Tank_UE_Tank3_mats_Normal.uasset" 376
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Red/l3_Tank_UE_Tank3_mats_BaseColor.uasset" 377
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Tanks/Level3/Mats/Red/Tank3_Red.uasset" 378
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Menu/BP_EnemyTank3.uasset" 379
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Menu/BP_EnemyTank2.uasset" 380
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Menu/BP_EnemyTank.uasset" 381
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_MainMenu.umap" 382
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_SnowGulch_BuiltData.uasset" 383
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_008.uasset" 384
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_007.uasset" 385
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_006.uasset" 386
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_004.uasset" 387
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_003.uasset" 388
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_002.uasset" 389
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Red/Material_001.uasset" 390
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Models/Generator/Generator.uasset" 391
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Blueprints/Generator/BP_EnemyGenerator.uasset" 392
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 393
+"F:/School/Casual Game Production/Project 3/DIG4720C_Project3/Project3/Content/Maps/Map_SnowGulch.umap" 394
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 395
+"../../../Engine/Content/Maps/Entry.umap" 396
